@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.ed198fee.chunk.css",
-    "main.js": "/static/js/main.ee0433f5.chunk.js",
-    "main.js.map": "/static/js/main.ee0433f5.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.f032200a.js",
-    "runtime-main.js.map": "/static/js/runtime-main.f032200a.js.map",
-    "static/js/2.f86c7f43.chunk.js": "/static/js/2.f86c7f43.chunk.js",
-    "static/js/2.f86c7f43.chunk.js.map": "/static/js/2.f86c7f43.chunk.js.map",
-    "static/js/3.9ca10ccd.chunk.js": "/static/js/3.9ca10ccd.chunk.js",
-    "static/js/3.9ca10ccd.chunk.js.map": "/static/js/3.9ca10ccd.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.ed198fee.chunk.css.map": "/static/css/main.ed198fee.chunk.css.map",
-    "static/js/2.f86c7f43.chunk.js.LICENSE.txt": "/static/js/2.f86c7f43.chunk.js.LICENSE.txt"
+    "main.css": "/texteditor/static/css/main.ed198fee.chunk.css",
+    "main.js": "/texteditor/static/js/main.ee0433f5.chunk.js",
+    "main.js.map": "/texteditor/static/js/main.ee0433f5.chunk.js.map",
+    "runtime-main.js": "/texteditor/static/js/runtime-main.be490569.js",
+    "runtime-main.js.map": "/texteditor/static/js/runtime-main.be490569.js.map",
+    "static/js/2.f86c7f43.chunk.js": "/texteditor/static/js/2.f86c7f43.chunk.js",
+    "static/js/2.f86c7f43.chunk.js.map": "/texteditor/static/js/2.f86c7f43.chunk.js.map",
+    "static/js/3.9ca10ccd.chunk.js": "/texteditor/static/js/3.9ca10ccd.chunk.js",
+    "static/js/3.9ca10ccd.chunk.js.map": "/texteditor/static/js/3.9ca10ccd.chunk.js.map",
+    "index.html": "/texteditor/index.html",
+    "static/css/main.ed198fee.chunk.css.map": "/texteditor/static/css/main.ed198fee.chunk.css.map",
+    "static/js/2.f86c7f43.chunk.js.LICENSE.txt": "/texteditor/static/js/2.f86c7f43.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.f032200a.js",
+    "static/js/runtime-main.be490569.js",
     "static/js/2.f86c7f43.chunk.js",
     "static/css/main.ed198fee.chunk.css",
     "static/js/main.ee0433f5.chunk.js"
